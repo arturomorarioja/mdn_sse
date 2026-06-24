@@ -1,0 +1,10 @@
+:root {
+    --colourMain: black;
+}
+
+#messages {
+    border: thin solid var(--colourMain);
+    border-radius: 0.5rem;
+    max-height: 60vh;
+    overflow: auto;
+}
