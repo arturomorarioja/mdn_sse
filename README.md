@@ -15,5 +15,5 @@ Server: PHP
 Client: JavaScript / CSS3 / Water.css / HTML5
 
 ## Author
-MDN ([original repo](https://github.com/mdn/dom-examples/tree/main/server-sent-events)).
+MDN ([original repo](https://github.com/mdn/dom-examples/tree/main/server-sent-events)).  
 Code reorganisation and styling by Arturo Mora-Rioja.
